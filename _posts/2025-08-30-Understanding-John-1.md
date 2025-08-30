@@ -20,9 +20,10 @@ John 1:1-18 says,
 >11 He came to his own, and his own people did not receive him.
 >12 But to all who did receive him, who believed in his name, he gave the right to become children of God,
 >13 who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+>14 And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. 
+>15 (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”) 
+>16 For from his fullness we have all received, grace upon grace.
+>17 For the law was given through Moses; grace and truth came through Jesus Christ. 
+>18 No one has ever seen God; God the only Son, who is at the Father's side, he has made him known.
 
-14 And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth. 
-15 (John bore witness about him, and cried out, “This was he of whom I said, ‘He who comes after me ranks before me, because he was before me.’”) 
-16 For from his fullness we have all received, grace upon grace.
-17 For the law was given through Moses; grace and truth came through Jesus Christ. 
-18 No one has ever seen God; God the only Son, who is at the Father's side, he has made him known.
+
