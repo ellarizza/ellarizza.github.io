@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts after becoming 27 years old"
-tags: [introduction, blog]
+tags: [blog]
 ---
 
 First, Praise the Lord for the last 26 years of life. 
