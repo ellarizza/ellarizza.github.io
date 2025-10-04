@@ -38,6 +38,7 @@ This is my first time doing this and I asked Claude to do it for me. But for mor
 ```
 ### 3. Open the container
 Press `Ctrl+Shift+P` to open the Command Prompt and type `Dev Containers: Reopen in Container`. You should see it like this. Click that 
+
 <img align="center" width="605" height="98" alt="image" src="https://github.com/user-attachments/assets/3f7ef972-5c32-404c-b37e-3a381f99ba1c" />
 
 I asked Claude what happens we select that commands. It does couple of things:
@@ -46,10 +47,13 @@ I asked Claude what happens we select that commands. It does couple of things:
 
 ### 4. Verification
 If successfull, you can see that you are running using the container. You could verify this by looking at the leftmost low corner. In my case it is shown like this:
+
 <img align="center" width="289" height="99" alt="image" src="https://github.com/user-attachments/assets/c5687619-ed2c-421d-ba06-0521a07ad9ae" />
 
 The name was GICI-LIB (the program I will modify and develop) Ubuntu 22.04 (the OS environment). If I run `cat /etc/os-release`, it will show 
+
 <img align="center" width="727" height="211" alt="image" src="https://github.com/user-attachments/assets/3dc1d2f0-073b-4290-93da-5a76f63e4ce2" />
+
 which shows the Ubuntu 22 info (Jammy Jellyfish). 
 
 Laters!
