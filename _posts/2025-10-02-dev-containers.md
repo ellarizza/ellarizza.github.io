@@ -13,7 +13,7 @@ None of the above is appealing. Fortunately, I happen to come across Dev Contain
 
 ### 1. Install Dev Containers
 You can do this by going to extensions, and then search for Dev Containers. It looks like the image below. Click install. 
-<img width="954" height="188" alt="image" src="https://github.com/user-attachments/assets/28b0e565-9b3f-4f6c-9b7a-1c95386028de" />
+<img align="center" width="954" height="188" alt="image" src="https://github.com/user-attachments/assets/28b0e565-9b3f-4f6c-9b7a-1c95386028de" />
 
 ### 2. Create the `.devcontainer/devcontainer.json`
 This is my first time doing this and I asked Claude to do it for me. But for more brain activity, I'll try to write a separate blog about the contents of `devcontainer.json`. 
