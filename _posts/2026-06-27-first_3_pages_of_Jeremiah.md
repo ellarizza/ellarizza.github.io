@@ -1,0 +1,18 @@
+---
+layout: post
+title: "First 3 pages of Jeremiah"
+
+tags: [blog]
+---
+
+I had to write to make sense (or not) of this. I started reading Jeremiah. I am only first three chapters down, and there's already so much to think and meditate about. 
+
+# Parallel between Moses and Jeremiah's calling 
+It was from BibleProject that I've heard about potential parallels and similarities between God's calling to Moses and Jeremiah. 
+1. Both presented a case that they are not eloquent speakers. And in both cases, God pointed out that His words will be their words when they speak. The word play for both accounts are actually interesting.
+2. Both calling are accompanied with signs. Moses said that Israel will not believe him, so God gave powerful signs at that moment. Could it be that the signs at that instance was first for Moses? That when he said that Israel won't believe him, he is also saying that he does not believe at that moment? For Jeremiah, I think it is more a like a vision. But then there could be a parallel if my initial understanding with Moses' account is true. That, at this point, Jeremiah has yet to believe as well. Remember, he was doubting himself (which could also be doubting God? Idk.). So these visions in chapter 1 helped the unbelief and doubt of Jeremiah. The contrast between the two is that the signs for Moses came before the eloquent speaker case, and after for Jeremiah. Both were to speak to Israel. One is for salvation of Israel and judgment to Egypt (Moses), while the other is judgment and mercy to Israel (Jeremiah). It's also interesting to take note that Isaiah and Jeremiah had the same vision of God touching their mouths (for Isaiah, it was an angel). For Isaiah, it was a purification thing. For Jeremiah, he was being charged for a mission.
+
+# Husband-Wife image between God and Israel
+Idolatry resulting to adultery. When Israel forgets who they really are and to whom is their allegiance, they forget their identity. This happens when they forsake God, and choose to serve other gods who are no gods (2:11). Chapter 2 highlights this somehow image of a faithful husband trying to make sense why his wife committed infidelity despite his faithfulness and life-giving experience that he has given to his wife. Instead they gave their allegiances to other nations and serve their gods, whoring after them as the book says. The doom and exile that happened to Israel was not because God forsook them, but because Israel forsook God (2:17). 
+
+Yet, despite Israel's unfaithfulness, God is still offering mercy. Still willing to accept those who will return to Him. Will forget their iniquities of those who will repent and come back to Him. Will heal their unfaithfulness and will no longer stubbornly follow their own deceitful and evil heart. And through that, all nations will be blessed. God is calling Israel back to Him and to renew their covenant with Him (4:4). This is just fascinating to me. People could look at this as if God is begging or pleading Israel. But that would only be true if God sees Israel as someone that will complete Him like in common love stories of humanity. But it is not just the case. God loves Israel not because they are this or that, or that God needs an object to love. **It is His character**. Always abounding in love. God loves them because He loves them (Deut. 10). Always faithful to His words regardless of the situations. But never backing down when confronted by evil. Instead, He overcame evil with good. Turning evil into good. Humanity will mess up, since the beginning, and yet God can use these messed up people to accomplish His good plan for them. 
